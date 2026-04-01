@@ -1,4 +1,4 @@
-# Cisco-Packet-Tracer-VLAN-DHCP-Network-Design-Lab
+# Cisco Packet Tracer VLAN DHCP Network Design Lab
 
 I designed a small network that uses VLANs and DHCP, configured a switch with both access and trunk ports, and implemented router-on-a-stick for inter-VLAN routing. I also set up separate DHCP pools for each VLAN and verified connectivity to ensure everything functioned correctly.
 
